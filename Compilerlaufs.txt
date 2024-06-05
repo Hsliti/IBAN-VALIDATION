@@ -1,0 +1,14 @@
+13:06:18 **** Incremental Build of configuration Debug for project IBAN2 ****
+make all 
+Building file: ../src/IBAN2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/IBAN2.d" -MT"src/IBAN2.d" -o "src/IBAN2.o" "../src/IBAN2.c"
+Finished building: ../src/IBAN2.c
+ 
+Building target: IBAN2
+Invoking: GCC C Linker
+gcc  -o "IBAN2"  ./src/IBAN2.o   
+Finished building target: IBAN2
+ 
+
+13:06:18 Build Finished (took 233ms)

@@ -1,0 +1,57 @@
+50090607;apoBank Frankfurt Main
+51220800;Banco do Brasil Frankfurt
+10020500;Bank fuer Sozialwirtschaft
+66090800;BBBank Karlsruhe
+10000000;BBk Berlin.
+50000000;BBk Filiale Frankfurt Main
+10090000;Berliner Volksbank
+10020200;BHF-BANK Berlin
+51040038;Commerzbank Bingen Rhein
+60040071;Commerzbank Bueblingen
+85080000;Commerzbank Dresden
+61180004;Commerzbank Esslingen
+20080000;Commerzbank Hamburg
+50040000;Commerzbank Hofheim Taunus
+66640035;Commerzbank Pforzheim
+50080000;Commerzbank Schwalbach
+50010700;Degussa Bank Koeln
+79570051;Deutsche Bank Aschaffenburg
+20070000;Deutsche Bank Hamburg
+21070020;Deutsche Bank Kiel
+12070000;Deutsche Bank Neuruppin
+53270024;Deutsche Bank PGK Bad Hersf
+50070024;Deutsche Bank PGK Frankfurt
+20070024;Deutsche Bank PGK Hamburg
+60070024;Deutsche Bank PGK Stuttgart
+44160014;Dortmunder Volksbank
+87054000;Erzgebirgssparkasse
+20050550;Haspa Buxtehude
+51230100;Hypothekenbank Frankfurt
+50120100;ICICI Bank Frankfurt
+50010517;ING-DiBa Frankfurt am Main
+57051001;Kr Spk Westerwald
+50750094;Kreissparkasse Gelnhausen
+45060009;Merkische Bank Hagen
+51220910;Morgan Stanley Bank
+76026000;norisbank
+70120700;Oberbank Muenchen
+13050000;Ostseesparkasse Rostock
+10010010;Postbank Berlin
+10033300;Santander Bank Berlin
+10010111;SEB Berlin
+50010111;SEB Neu Isenburg
+12096597;Sparda-Bank Berlin
+50090500;Sparda-Bank Hessen
+53050180;Sparkasse Fulda
+58550130;Sparkasse Trier
+63050000;Sparkasse Ulm
+67250020;Spk Heidelberg
+10020890;UniCredit Bank-HypoVereinbk
+50320191;UniCredit Bank-HypoVereinbk
+87096214;Volksbank Chemnitz
+64390130;Volksbank Donau-Neckar
+62090100;Volksbank Heilbronn
+13061028;Volksbank Raiffeisenbank
+59390100;Volksbank Saarlouis
+86095484;VR-Bank Muldental Grimma
+60420000;Waestenrot Bank
